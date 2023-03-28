@@ -21,4 +21,5 @@ void print_array(int *a, int n);
 char _string(char *const);
 
 int _atoi(char *s);
+
 M-x delete-trailing-whitespace
